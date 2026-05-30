@@ -22,7 +22,7 @@ jobs:
     - name: Install dependencies 
       run: | 
         python -m pip install --upgrade pip 
-        pip install -r requirements.txt 
+        pip install -r C:\Users\jeeva\OneDrive\Documents\DevOps\Exp__6\requirements.txt
  
     - name: Lint code (Quality Check) 
       run: | 
